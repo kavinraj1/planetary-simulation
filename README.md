@@ -1,5 +1,4 @@
 # planetary-simulation
-to simulate planets and coments around a star
 from vpython import *
 
 def gforce(pla,sta):
